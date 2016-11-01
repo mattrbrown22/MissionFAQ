@@ -1,0 +1,123 @@
+﻿@{
+    ViewBag.Title = "MissionView";
+}
+<div class="container">
+    <div class="box">
+        <ol class="breadcrumb">
+            <li><a href="@Url.Action("Index", "Home")">Home</a></li>
+            <li><a href="@Url.Action("Index", "Missions")">Missions Homepage</a></li>
+            <li>@ViewBag.MissionName</li>
+            
+        </ol>
+        
+    </div>
+</div>
+<div align="center">
+    <div class="box">
+        <h2>@ViewBag.MissionName</h2>
+        <p>
+            In order to become a little more familiar with this mission here is some info for you: <br />
+        </p>
+
+        <h3>@ViewBag.presidentname</h3>
+
+        <img src="~/img/@ViewBag.PresidentPic">
+        <p>This is the mission president and his wife.</p>
+        
+    </div>
+    <div class="box">
+        <h2>Mission Info</h2>
+        <p>
+            If you need to contact someone in the mission, the mission address is <br /> <strong>@ViewBag.missionaddress</strong>.<br />
+            The language that is predominantly spoken in this mission is @ViewBag.language.
+        </p>
+            
+
+            <img src="~/img/@ViewBag.Flag">
+
+</div>
+    <div class="box">
+        <h2>Other Pertinent Information</h2>
+        <p>
+            The most present religion in the country is @ViewBag.dominantreligion.  <br />
+            The Country has a @ViewBag.Climate.
+        </p>
+        <img src="~/img/@ViewBag.ClimatePic">
+    </div>
+    <div class="container">
+       <div class="well">
+           <hr />
+           <h1>
+               FAQ
+           </h1>
+           <hr />
+            <div >
+                <div class="titleBox">
+                    <label>Comments</label>
+                    <button type="button" class="close" aria-hidden="true">&times;</button>
+                </div>
+                <div class="commentBox">
+
+                    <p class="taskDescription" style="text-align:left">How can I be a better Missionary?</p>
+                </div>
+                <div class="actionBox">
+                    <ul class="commentList">
+                        <li>
+                            <div class="commenterImage">
+                                <img src="http://placekitten.com/50/50" />
+                            </div>
+                            <div class="commentText" style="text-align:left" >
+                                <p class=" " style=" text-align:left">I would just try to read your scriptures and ask the lord!</p> <span class="date sub-text">on March 5th, 2014</span>
+
+                            </div>
+                        </li>
+                                                
+                    </ul>
+                    <form class="form-inline" role="form">
+                        <div class="form-group">
+                            <input class="form-control" type="text" placeholder="Your comments" />
+                        </div>
+                        <div class="form-group">
+                            <button class="btn btn-default" type="reset">Add</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+      </div>
+
+    </div>
+    <div class="well">
+        <hr>
+        <h2 class="intro-text text-center">
+            <strong>Ask a question you have about this mission here!</strong>
+        </h2>
+        <hr>
+        <form role="form">
+            <div class="row">
+                <div class="form-group col-lg-4">
+                    <label>Name</label>
+                    <input type="text" class="form-control">
+                </div>
+                <div class="form-group col-lg-4">
+                    <label>Email Address</label>
+                    <input type="email" class="form-control">
+                </div>
+                <div class="form-group col-lg-4">
+                    <label>Phone Number</label>
+                    <input type="tel" class="form-control">
+                </div>
+                <div class="clearfix"></div>
+
+                <div class="form-group col-lg-12">
+                    <label>Question</label>
+                    <textarea rows="6" class="form-control"></textarea>
+                </div>
+                <div class="form-group col-lg-12">
+                    <input type="hidden" value="contact" name="save">
+                    <button class="btn btn-default" type="reset">Submit</button>
+                    <!--type="reset" should be type="submit" once they want us to do that****************-->
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

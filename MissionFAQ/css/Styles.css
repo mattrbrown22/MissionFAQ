@@ -1,0 +1,123 @@
+﻿body {
+}
+
+
+.ctabutton {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 12px 24px;
+    border: 1px solid #7c7d7d;
+    border-radius: 8px;
+    background: #00f7ff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#00f7ff), to(#266799));
+    background: -moz-linear-gradient(top, #00f7ff, #266799);
+    background: linear-gradient(to bottom, #00f7ff, #266799);
+    text-shadow: #591717 1px 1px 1px;
+    font: normal normal bold 23px arial;
+    color: #ffffff;
+    text-decoration: none;
+}
+.ctabutton:hover,
+.ctabutton:focus {
+    border: 1px solid #a1a3a3;
+    background: #00ffff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#00ffff), to(#2e7cb8));
+    background: -moz-linear-gradient(top, #00ffff, #2e7cb8);
+    background: linear-gradient(to bottom, #00ffff, #2e7cb8);
+    color: #ffffff;
+    text-decoration: none;
+}
+.ctabutton:active {
+    background: #009499;
+    background: -webkit-gradient(linear, left top, left bottom, from(#009499), to(#266799));
+    background: -moz-linear-gradient(top, #009499, #266799);
+    background: linear-gradient(to bottom, #009499, #266799);
+}
+.ctabutton:after{
+    content:  "\0000a0";
+    display: inline-block;
+    height: 24px;
+    width: 24px;
+    line-height: 24px;
+    margin: 0 -4px -6px 4px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABWUlEQVRIie2SMUoDURRFz5UsQYJVGMIsQKxtZLD/AwbBxrW4BJdgL+SnlsFCa3EBIQypxC2M+CySH74hzp8hlrkwxfzHu/e9+y4ckIDaipPJhKZpboB7YAlce+/nfQSO2opN05wDD8AxcAY8OefG/yYAnEoaSKtFJWVA1UekVcDMHs1sbmZIwswAgki+t8BsNvsACmABICl8GR3tSlmE934JFGa2CG/rjTI62NWaohjOuRFQAXlkF0ANXP6Vrs4CkcizpF9Tm1kNXHjv6+2epEUxEnbd7erpJQCrQ2+Rh9/vvQXKshyZWSVpHN0gWLTfBmVZjoANeYismdWSil3+Q8cjO+cySRUwjm1ZT1547xd/9SYFQnKATXLC5CnypIBz7gR4kZRvHbQGiul02koO6RtcScrD1H3JAQaJ+ruZfUkarFNT08GWGK0bDIfDV+DWzD6Bt77kB3TCD1cuo2reO+LVAAAAAElFTkSuQmCC") no-repeat left center transparent;
+    background-size: 100% 100%;
+}
+
+/* Always set the map height explicitly to define the size of the div
+        * element that contains the map. */
+         #map {
+             height: 100%;
+         }
+         @import url(//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css);
+
+.detailBox {
+    width:320px;
+    border:1px solid #bbb;
+    margin:50px;
+}
+.titleBox {
+    background-color:#fdfdfd;
+    padding:10px;
+}
+.titleBox label{
+  color:#444;
+  margin:0;
+  display:inline-block;
+}
+
+.commentBox {
+    padding:10px;
+    border-top:1px dotted #bbb;
+}
+.commentBox .form-group:first-child, .actionBox .form-group:first-child {
+    width:80%;
+}
+.commentBox .form-group:nth-child(2), .actionBox .form-group:nth-child(2) {
+    width:18%;
+}
+.actionBox .form-group * {
+    width:100%;
+}
+.taskDescription {
+    margin-top:10px 0;
+}
+.commentList {
+    padding:0;
+    list-style:none;
+    max-height:200px;
+    overflow:auto;
+}
+.commentList li {
+    margin:0;
+    margin-top:10px;
+}
+.commentList li > div {
+    display:table-cell;
+}
+.commenterImage {
+    width:30px;
+    margin-right:5px;
+    height:100%;
+    float:left;
+}
+.commenterImage img {
+    width:100%;
+    border-radius:50%;
+}
+.commentText p {
+    margin:0;
+}
+.sub-text {
+    color:#aaa;
+    font-family:verdana;
+    font-size:11px;
+}
+.actionBox {
+    border-top:1px dotted #bbb;
+    padding:10px;
+}

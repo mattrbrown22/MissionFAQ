@@ -1,0 +1,76 @@
+﻿@{
+   Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container">
+
+    <div class="row">
+
+        <div class="box">
+            <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="false" aria-expanded="false">
+                    Choose Mission &or;
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a class="dropdown-item" @Html.ActionLink("Anaheim, California Mission", "MissionView", "Missions", new { MissionName = "Anaheim, California"}, null) <br />
+                       <a class="dropdown-item" @Html.ActionLink("Busan, Korea Mission", "MissionView", "Missions", new { MissionName = "Busan, Korea"}, null) <br />
+                           <a class="dropdown-item" @Html.ActionLink("Veracruz, Mexico Mission", "MissionView", "Missions", new { MissionName = "Veracruz, Mexico"}, null)
+                </div>
+            </div>
+
+            <div class="col-lg-12">
+                <hr>
+                <h2 class="intro-text text-center">
+                    <strong>Missions Home Page</strong>
+                </h2>
+                <hr>
+            </div>
+            <div class="col-lg-12 text-center">
+                <img alt="" src="~/img/Anaheim.bmp" class="img-responsive img-border img-full">
+                <h2>
+                    Anaheim, California Mission
+                    <br>
+
+                </h2>
+                <p> .</p>
+
+                @Html.ActionLink("Anaheim, California Mission", "MissionView", "Missions", new { MissionName = "Anaheim, California" }, new {@class="btn btn-default btn-lg" })
+                <p>
+                    @Html.ActionLink("See Directions", "MapView1", "Missions", new { MissionName = "Anaheim, California" }, new { @class = "btn btn-default btn-lg" })
+                </p>
+
+                <hr>
+            </div>
+            <div class="col-lg-12 text-center">
+                <img alt="" src="~/img/Busan.jpg" class="img-responsive img-border img-full">
+                <h2>
+                    Busan, Korea Mission
+                    <br>
+
+                </h2>
+                <p>.</p>
+                @Html.ActionLink("Busan, Korea Mission", "MissionView", "Missions", new { MissionName = "Busan, Korea" }, new { @class = "btn btn-default btn-lg" })
+                <p>
+                    @Html.ActionLink("See Directions", "MapView2", "Missions", new { MissionName = "Busan, Korea" }, new { @class = "btn btn-default btn-lg" })
+                </p>
+
+                <hr>
+            </div>
+            <div class="col-lg-12 text-center">
+                <img alt="" src="~/img/Veracruz.jpg" class="img-responsive img-border img-full">
+                <h2>
+                    Veracruz, Mexico Mission
+                    <br>
+
+                </h2>
+                <p>.</p>
+                @Html.ActionLink("Veracruz, Mexico Mission", "MissionView", "Missions", new { MissionName = "Veracruz, Mexico" }, new { @class = "btn btn-default btn-lg" })
+                <p>
+                    @Html.ActionLink("See Directions", "MapView", "Missions", new { MissionName = "Veracruz, Mexico" }, new { @class = "btn btn-default btn-lg" })
+                </p>
+
+                <hr>
+            </div>
+
+        </div>
+    </div>
+</div>

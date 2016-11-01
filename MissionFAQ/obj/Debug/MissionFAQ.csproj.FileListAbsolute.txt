@@ -1,0 +1,110 @@
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\MissionFAQ.dll.config
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\MissionFAQ.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\MissionFAQ.pdb
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Antlr3.Runtime.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\EntityFramework.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\EntityFramework.SqlServer.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.Google.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Web.Infrastructure.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Newtonsoft.Json.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Owin.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.Helpers.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.Mvc.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.Optimization.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.Razor.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.WebPages.Deployment.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.WebPages.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.WebPages.Razor.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\WebGrease.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.Helpers.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.Mvc.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.Optimization.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.Razor.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.WebPages.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.WebPages.Deployment.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.WebPages.Razor.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Newtonsoft.Json.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Antlr3.Runtime.pdb
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\EntityFramework.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\EntityFramework.SqlServer.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.Google.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\obj\Debug\MissionFAQ.csprojResolveAssemblyReference.cache
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\obj\Debug\MissionFAQ.dll
+c:\users\david tipton\documents\visual studio 2013\Projects\MissionFAQ\MissionFAQ\obj\Debug\MissionFAQ.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\MissionFAQ.dll.config
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\MissionFAQ.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\MissionFAQ.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Antlr3.Runtime.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\EntityFramework.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\EntityFramework.SqlServer.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Newtonsoft.Json.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Owin.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.Helpers.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.Mvc.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.Optimization.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.Razor.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.WebPages.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.WebPages.Razor.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\WebGrease.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.Helpers.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.Mvc.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.Optimization.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.Razor.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.WebPages.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\System.Web.WebPages.Razor.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Newtonsoft.Json.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Antlr3.Runtime.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\EntityFramework.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\EntityFramework.SqlServer.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\obj\Debug\MissionFAQ.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\obj\Debug\MissionFAQ.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\MissionFAQ\MissionFAQ\obj\Debug\MissionFAQ.pdb
